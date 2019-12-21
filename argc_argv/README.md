@@ -1,4 +1,4 @@
-# Let_us_C 
+# Let_us_C PRJ:1
 This program explains the usgae of the function argc and argv. argc gives the count (size of array) while argv gives the content ctored in array.
 
 run the following command in terminal:
