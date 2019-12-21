@@ -5,4 +5,4 @@ run the following command in terminal:
 
 $make
 
-$./argc_argv.exe
+$./argc_argv.exe <your_text>
